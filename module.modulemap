@@ -1,0 +1,5 @@
+module CStack [system] {
+  header "shim.h"
+  link "stack"
+  export *
+}
